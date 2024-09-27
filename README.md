@@ -11,3 +11,7 @@ Repositório de Resumo dos recursos aprendidos durante o laboratório da DIO
 * Modelo de responsabilidade compartilhada
 * Selecionando o Sistema Operacional de uma máquina virtual (IAAS)
 * Criando um banco de dados SQL (PAAS)
+* Regiões, Pares de Regiões e Regiões Soberanas
+* Visualizar as regiões e seus pares no site datacenters.microsoft.com
+* Criar um grupo de recursos no Azure
+* Criar uma Vnet no Azure
