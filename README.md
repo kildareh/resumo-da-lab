@@ -12,6 +12,6 @@ Repositório de Resumo dos recursos aprendidos durante o laboratório da DIO
 * Selecionando o Sistema Operacional de uma máquina virtual (IAAS)
 * Criando um banco de dados SQL (PAAS)
 * Regiões, Pares de Regiões e Regiões Soberanas
-* Visualizar as regiões e seus pares no site datacenters.microsoft.com
+* Visualizar as regiões e seus pares no site [datacenters.microsoft.com](https://datacenters.microsoft.com)
 * Criar um grupo de recursos no Azure
 * Criar uma Vnet no Azure
