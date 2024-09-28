@@ -15,3 +15,7 @@ Repositório de Resumo dos recursos aprendidos durante o laboratório da DIO
 * Visualizar as regiões e seus pares no site [datacenters.microsoft.com](https://datacenters.microsoft.com)
 * Criar um grupo de recursos no Azure
 * Criar uma Vnet no Azure
+* Criando uma VM (máquina virtual) no Azure, explicação das Abas e de cada opção
+* Explicando Zonas de Disponibilidade e Conjuntos de Dimensionamento
+* Área de Trabalho Virtual do Azure
+* Azure Functions
