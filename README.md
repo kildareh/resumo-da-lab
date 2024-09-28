@@ -19,3 +19,9 @@ Repositório de Resumo dos recursos aprendidos durante o laboratório da DIO
 * Explicando Zonas de Disponibilidade e Conjuntos de Dimensionamento
 * Área de Trabalho Virtual do Azure
 * Azure Functions
+* Criar contas de armazenamento, tipos de replicação, Blob, Arquivos, Filas e Tabelas
+* Camadas de armazenamento
+* Azure Migration
+* Azure Data Box Disk, Azure Data Box e Azure Data Box Heavy
+* Baixar o AZCopy, conectar ao Container Blob e copiar arquivos
+* Usar o Gerenciador de Arquivos do Azure, instalar, conectar à conta do Azure e utilizar para copiar arquivos.
