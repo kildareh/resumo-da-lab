@@ -25,3 +25,6 @@ Repositório de Resumo dos recursos aprendidos durante o laboratório da DIO
 * Azure Data Box Disk, Azure Data Box e Azure Data Box Heavy
 * Baixar o AZCopy, conectar ao Container Blob e copiar arquivos
 * Usar o Gerenciador de Arquivos do Azure, instalar, conectar à conta do Azure e utilizar para copiar arquivos.
+* Microsoft Entra ID - criação de usuários, gerenciamento, roles
+* RBAC - exemplo de utilização
+* Microsoft Defender for Cloud - visão geral
