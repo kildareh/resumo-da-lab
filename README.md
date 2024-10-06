@@ -28,3 +28,8 @@ Repositório de Resumo dos recursos aprendidos durante o laboratório da DIO
 * Microsoft Entra ID - criação de usuários, gerenciamento, roles
 * RBAC - exemplo de utilização
 * Microsoft Defender for Cloud - visão geral
+* Calculadora de Custo Total de Propriedade (TCO)
+* Calculadora de Custos do Azure
+* Diferenças entre TCO e Calculadora de Custos do Azure
+* Cost Managment + Billing
+* TAGS (Marcas) - suas utilidades
