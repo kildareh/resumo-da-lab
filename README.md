@@ -33,3 +33,7 @@ Repositório de Resumo dos recursos aprendidos durante o laboratório da DIO
 * Diferenças entre TCO e Calculadora de Custos do Azure
 * Cost Managment + Billing
 * TAGS (Marcas) - suas utilidades
+* Microsoft Purview
+* Portal de Confiança do Serviço
+* Locks (Bloqueios)
+* Policies (Políticas do Azure)
