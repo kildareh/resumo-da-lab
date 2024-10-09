@@ -43,3 +43,6 @@ Repositório de Resumo dos recursos aprendidos durante o laboratório da DIO
 * ARM Templates
 * Comparativo entre ARM Templates e Bicep
 * Azure Arc
+* Azure Monitor
+* Advisor
+* Resource Health 
