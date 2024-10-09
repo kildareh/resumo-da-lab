@@ -37,3 +37,9 @@ Repositório de Resumo dos recursos aprendidos durante o laboratório da DIO
 * Portal de Confiança do Serviço
 * Locks (Bloqueios)
 * Policies (Políticas do Azure)
+* Azure Cloud Shell
+* CLI
+* Azure Powershell
+* ARM Templates
+* Comparativo entre ARM Templates e Bicep
+* Azure Arc
