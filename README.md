@@ -45,4 +45,4 @@ Repositório de Resumo dos recursos aprendidos durante o laboratório da DIO
 * Azure Arc
 * Azure Monitor
 * Advisor
-* Resource Health 
+* Azure Service Health 
